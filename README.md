@@ -10,6 +10,7 @@ some resources for startup/biotech companies.
 
 ### Twitter to follow
 
+### podcasts
 
 ### bioinformatics/data 
 
