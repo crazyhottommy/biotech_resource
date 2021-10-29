@@ -9,6 +9,7 @@ some resources for startup/biotech companies.
 
 
 ### Twitter to follow
+* follow this thread https://twitter.com/GuillermoVela29/status/1453886456250916876
 
 ### podcasts
 
