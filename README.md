@@ -13,6 +13,10 @@ some resources for startup/biotech companies.
 
 ### podcasts
 
+* [The long run](https://podcasts.apple.com/us/podcast/the-long-run-with-luke-timmerman/id1282838969) by Luke Timmerman.
+* [Theory and practice](https://podcasts.apple.com/us/podcast/theory-and-practice/id1480260459) by GV and google AI.
+
+
 ### bioinformatics/data 
 
 * [How to make your data FAIR](https://howtofair.dk/)
