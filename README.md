@@ -7,6 +7,9 @@ some resources for startup/biotech companies.
 
 * [First round review](https://review.firstround.com/)
 
+### pitch deck
+
+* [Biotech and medtech pitch decks: The best guides, tips, and tricks](https://www.pharmagellan.com/blog/pitch-deck-tips)
 
 ### Twitter to follow
 * follow this thread https://twitter.com/GuillermoVela29/status/1453886456250916876
