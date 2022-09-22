@@ -7,6 +7,17 @@ some resources for startup/biotech companies.
 
 * [First round review](https://review.firstround.com/)
 
+
+### Venture captial list
+
+Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
+
+* https://www.docsend.com/index/active-vc-list/
+* https://www.airtable.com/universe/expvLRtwibsKgeBdy/vc-and-private-equity-resources-for-start-ups?explore=true
+* https://docs.google.com/spreadsheets/d/1RYUdZ1peUiOeGsS6d04AxpodtYjrr6pqwLF5nqiQ1I0/edit#gid=577007066
+* https://airtable.com/shrzWIHSoK0gvE82D/tble9siT6RDtZNc39
+* https://www.angelcapitalassociation.org/directory/
+
 ### pitch deck
 
 * [Biotech and medtech pitch decks: The best guides, tips, and tricks](https://www.pharmagellan.com/blog/pitch-deck-tips)
