@@ -19,9 +19,20 @@ Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
 * https://www.angelcapitalassociation.org/directory/
 * [BIOS — Top 100 TechBio VC Funds](https://medium.com/bios-community/bios-top-100-techbio-vc-funds-297278d90965)
 
-### pitch deck
+### pitch deck and drawings
 
 * [Biotech and medtech pitch decks: The best guides, tips, and tricks](https://www.pharmagellan.com/blog/pitch-deck-tips)
+* [biorender](https://biorender.io/)
+* [The Noun Project](https://thenounproject.com/)
+* https://bioicons.com/
+* https://healthicons.org/
+* [reactome icon](https://reactome.org/icon-lib)
+* [Inovative genomic Institute glossary](https://innovativegenomics.org/resources/educational-materials/glossary/)\  
+* https://smart.servier.com/category/cellular-biology/nucleic-acids/
+* https://www.vecteezy.com/
+* https://www.freepik.com/
+* https://pixabay.com/
+* make workflow diagram https://app.diagrams.net/
 
 ### Twitter to follow
 * follow this thread https://twitter.com/GuillermoVela29/status/1453886456250916876
