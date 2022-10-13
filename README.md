@@ -34,7 +34,8 @@ Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
 * https://pixabay.com/
 * make workflow diagram https://app.diagrams.net/
 * https://undraw.co/
-
+* https://scidraw.io/
+* https://smart.servier.com/
 
 ### Twitter to follow
 * follow this thread https://twitter.com/GuillermoVela29/status/1453886456250916876
