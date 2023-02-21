@@ -7,6 +7,7 @@ some resources for startup/biotech companies.
 
 * [First round review](https://review.firstround.com/)
 
+* [Companies Innovating in Biotech](https://www.biotech2k.com/companies/companies.html)
 
 ### Venture captial list
 
