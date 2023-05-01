@@ -55,6 +55,7 @@ Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
 * [The digital biotech startup playbook](https://medium.com/@jfeala/the-digital-biotech-startup-playbook-398aeafca8a4)
 * [Modern biotech data infrastructure](http://blog.booleanbiotech.com/biotech-data-infrastructure.html) A blog post.
 * [Wasabi](https://wasabi.com/migrate-with-nate/) is the hot cloud storage company. HotCloudStorage is tier-free, easy-to-use and endlessly affordable. 80% cheapter than AWS S3.
+* [How Novo Nordisk built a modern data architecture on AWS](https://aws.amazon.com/blogs/big-data/how-novo-nordisk-built-a-modern-data-architecture-on-aws/)
 
 ### tools for generating new ideas
 
