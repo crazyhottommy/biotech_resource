@@ -60,6 +60,7 @@ Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
 * [Theory and practice](https://podcasts.apple.com/us/podcast/theory-and-practice/id1480260459) by GV and google AI.
 * [Mendelspod](https://mendelspod.com/): Developments in diagnostics, genetics and genomic medicine
 * [OncoPharm](https://podcasts.apple.com/us/podcast/oncopharm/id1305345744): Quick and straight to the point updates on the latest developments in oncology
+* https://www.statnews.com/category/readout-loud/
 
 ### bioinformatics/data 
 
