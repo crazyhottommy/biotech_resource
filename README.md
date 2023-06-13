@@ -1,6 +1,15 @@
 # biotech resource
 some resources for startup/biotech companies.
 
+### how to keep up to date
+
+* [The best ways to follow biopharma news and learn about the industry](https://atelfo.github.io/2022/03/19/the-best-way-to-follow-biopharma-news.html)
+* https://endpts.com/
+* https://www.biopharmadive.com/
+* https://www.statnews.com/
+* https://www.evaluate.com/vantage
+
+
 ### websites
 
 * [RA Capital](https://www.racap.com/innovator-resources) works with biotech innovators, executives, and company-builders at all stages along the journey from idea to product. We're committed to sharing best practices and introducing new ways to address common challenges.
