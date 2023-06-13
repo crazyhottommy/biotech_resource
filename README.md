@@ -18,6 +18,10 @@ some resources for startup/biotech companies.
 
 * [Companies Innovating in Biotech](https://www.biotech2k.com/companies/companies.html)
 
+### blogs
+
+* https://www.science.org/blogs/pipeline Derek Lowe’s commentary on drug discovery and the pharma industry. An editorially independent blog, all content is Derek’s own, and he does not in any way speak for his employer.
+
 ### Venture captial list
 
 Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
@@ -54,7 +58,8 @@ Follow https://twitter.com/Priyanka_Vaz/status/1572586520011505670
 
 * [The long run](https://podcasts.apple.com/us/podcast/the-long-run-with-luke-timmerman/id1282838969) by Luke Timmerman.
 * [Theory and practice](https://podcasts.apple.com/us/podcast/theory-and-practice/id1480260459) by GV and google AI.
-
+* [Mendelspod](https://mendelspod.com/): Developments in diagnostics, genetics and genomic medicine
+* [OncoPharm](https://podcasts.apple.com/us/podcast/oncopharm/id1305345744): Quick and straight to the point updates on the latest developments in oncology
 
 ### bioinformatics/data 
 
