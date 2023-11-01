@@ -18,6 +18,11 @@ some resources for startup/biotech companies.
 
 * [Companies Innovating in Biotech](https://www.biotech2k.com/companies/companies.html)
 
+### fundraising
+
+* [Biotech milestones for effective fundraising](https://blog.kaleidoscope.bio/biotech-milestones-for-effective-fundraising/)
+  
+  
 ### blogs
 
 * https://www.science.org/blogs/pipeline Derek Lowe’s commentary on drug discovery and the pharma industry. An editorially independent blog, all content is Derek’s own, and he does not in any way speak for his employer.
