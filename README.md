@@ -8,6 +8,7 @@ some resources for startup/biotech companies.
 * https://www.biopharmadive.com/
 * https://www.statnews.com/
 * https://www.evaluate.com/vantage
+* [Calder Brief Biotech news hub](https://calder-brief.pages.dev/biotech-hub.html) — daily-updated biotech news
 
 
 ### websites
